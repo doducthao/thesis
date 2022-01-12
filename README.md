@@ -1,4 +1,4 @@
-# RMCosSSL and RLMSoftmaxSSL losses for training semi-supervied taxonomy model base on GAN
+# RMCosSSL and RLMSoftmaxSSL losses for training semi-supervied taxonomy model based on GAN
 
 ## Relativistic Marin Cosine semi-supervised Learning (RMCosSSL)
 - Move to `rmcos-gan-ssl` folder
