@@ -1,0 +1,6 @@
+imageio 
+matplotlib
+itertools
+tqdm
+scipy
+pandas
