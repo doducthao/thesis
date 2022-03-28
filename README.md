@@ -20,3 +20,17 @@
 
   `python run.py --epoch 40 --change_alpha True`
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Chạy RMCos-SSL 
+Vào rmcos-ssl-cifar10, tạo một môi trường ảo, cài python 3.9
+
+conda istall pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+
+pip install -r install.txt
+
+bash data-local/bin/prepare_cifar10.sh
+
+
+bash single_gpu.sh
+
+
