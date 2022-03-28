@@ -21,6 +21,7 @@
   `python run.py --epoch 40 --change_alpha True`
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Chạy RMCos-SSL 
 Vào rmcos-ssl-cifar10, tạo một môi trường ảo, cài python 3.9
 
