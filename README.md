@@ -22,7 +22,8 @@
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Chạy RMCos-SSL 
+Chạy RMCos-SSL cho Cifar10
+
 Vào rmcos-ssl-cifar10, tạo một môi trường ảo, cài python 3.9
 
 conda istall pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
